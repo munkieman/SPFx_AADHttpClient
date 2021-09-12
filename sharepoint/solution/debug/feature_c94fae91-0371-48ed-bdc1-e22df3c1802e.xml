@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="SPFxAadHttpClient Feature" Description="A feature which activates the Client-Side WebPart named SPFxAadHttpClient" Id="c94fae91-0371-48ed-bdc1-e22df3c1802e" Version="1.0.0.0" Scope="Web" Hidden="FALSE"></Feature>
